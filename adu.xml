@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?> 
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+<layoutype>wolverine</layoutype>
+
+
+<item>
+<title>[COLOR orange] [B]*****18+ תוכן מבוגרים ******[/B] [/COLOR]</title>
+<thumbnail>special://home/userdata/pic/icon/wolverine.png</thumbnail>
+<fanart>special://home/userdata/pic/fanart/woll.jpg</fanart>
+</item>
+
+
+
+<dir>
+<title>[COLORwhite][B]Collection Of Best Porn[/B][/COLOR]</title>
+<link>https://raw.githubusercontent.com/sparkonet/extras/master/x1.xml</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
+
+
+<dir>
+<title>[COLORwhite][B]Eporner[/B][/COLOR]</title>
+<link>https://raw.githubusercontent.com/sparkonet/extras/master/x2.xml</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
+
+<plugin>
+<name>[COLOR white][B]Adult IPTV[/B][/COLOR]</name>
+<link>plugin://plugin.video.live.streamspro/?mode=1&url=http://adultiptv.net/lists/all.m3u</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+
+<plugin>
+<title>[COLOR white][B]Fluxus Lust IPTV (18+)[/B][/COLOR]</title>
+<link>plugin://plugin.video.live.streamspro/?mode=1&url=https://pastebin.com/raw/jMe87UHE</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+
+
+<plugin>
+    <name>[B]Ultimate Whitecream[/B]</name>
+    <link>plugin://plugin.video.uwc/</link>
+    <thumbnail>special://home/userdata/pic/icon/white.png</thumbnail>
+	<fanart>special://home/userdata/pic/fanart/crem.jpg</fanart>
+	</plugin>
+	
+	
